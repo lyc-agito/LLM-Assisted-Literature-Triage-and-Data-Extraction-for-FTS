@@ -4,7 +4,7 @@ import pandas as pd
 def read_excel_columns_to_json(file_path, sheet_name, column_names):
     """读取 Excel 文件中指定 sheet 下某几列的数据并组成json格式的字典列表"""
     
-    df = pd.read_excel(file_path, sheet_name=sheet_name)
+    df = pd.read_excel(file_path, sheet_name=sheet_name, keep_default_na=False)
     selected_df = df[column_names]
     dict_list = selected_df.to_dict('records')
     
