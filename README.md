@@ -1,7 +1,6 @@
 # LLM-Assisted Literature Triage and Data Extraction for FTS
-提供“Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction”一文中使用到的文献信息和代码（自2026年4月7日后不再更新）
-
-Literature information and codes for "Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction" (no more update after 7th, April, 2026)
+提供“Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction”一文中使用到的数据和代码（自2026年10月16日后不再更新）
+Data and codes for "Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction" (no more update after 16th, October, 2026)
 ***
 ## FTS litearture.xlsx
 - 2025年9月23日从Web of Science导出的以“Fischer-Tropsch”为主题的12467篇“Article”类型文献。
