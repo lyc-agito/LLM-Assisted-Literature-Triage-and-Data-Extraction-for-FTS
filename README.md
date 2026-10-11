@@ -4,7 +4,7 @@
 
 Data and codes for "Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction".
 
-![TOC](./TOC.jpg)
+![TOC](./TOC.png)
 ***
 
 ## literature corpus/FTS literature.xlsx
