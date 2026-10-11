@@ -3,6 +3,8 @@
 提供“Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction”一文中使用到的数据和代码。
 
 Data and codes for "Unveiling a Century of Fischer-Tropsch Synthesis through Large-Language-Model-Assisted Literature Triaging and Data Extraction".
+
+![TOC](./TOC.png)
 ***
 
 ## literature corpus/FTS literature.xlsx
